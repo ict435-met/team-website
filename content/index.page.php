@@ -33,7 +33,6 @@ echo <<<'EOD'
 												<h2>Recode</h2>
 												<p>Create an extensible site for accredidation documents.</p>
 											</header>
-											<p>Phasellus quam turpis, feugiat sit amet in, hendrerit in lectus. Praesent sed semper amet bibendum tristique fringilla.</p>
 										</div>
 									</section>
 
@@ -48,7 +47,6 @@ echo <<<'EOD'
 												<h2>Store</h2>
 												<p>Keep all documents stored in a database.</p>
 											</header>
-											<p>Phasellus quam turpis, feugiat sit amet in, hendrerit in lectus. Praesent sed semper amet bibendum tristique fringilla.</p>
 										</div>
 									</section>
 
@@ -61,9 +59,8 @@ echo <<<'EOD'
 										<div class="inner">
 											<header>
 												<h2>Convert</h2>
-												<p>Here's another intriguing subtitle</p>
+												<p>Enable automatic and simple conversion of existing documents.</p>
 											</header>
-											<p>Phasellus quam turpis, feugiat sit amet in, hendrerit in lectus. Praesent sed semper amet bibendum tristique fringilla.</p>
 										</div>
 									</section>
 
@@ -81,16 +78,16 @@ echo <<<'EOD'
 								<!-- Sidebar -->
 									<div id="sidebar">
 										<section class="widget thumbnails">
-											<h3>Interesting stuff</h3>
+											<h3>What we're using</h3>
 											<div class="grid">
 												<div class="row 50%">
-													<div class="6u"><a href="#" class="image fit"><img src="images/pic04.jpg" alt="" /></a></div>
-													<div class="6u"><a href="#" class="image fit"><img src="images/pic05.jpg" alt="" /></a></div>
-													<div class="6u"><a href="#" class="image fit"><img src="images/pic06.jpg" alt="" /></a></div>
-													<div class="6u"><a href="#" class="image fit"><img src="images/pic07.jpg" alt="" /></a></div>
+													<div class="6u"><a href="https://github.com/" class="image fit"><img src="assets/images/GitHub_Logo.png" alt="GitHub" /></a></div>
+													<div class="6u"><a href="https://asana.com/" class="image fit"><img src="assets/images/Asana_Logo.png" alt="Asana" /></a></div>
+													<div class="6u"><a href="https://php.net/" class="image fit"><img src="assets/images/PHP_Logo.png" alt="PHP" /></a></div>
+													<div class="6u"><a href="https://mariadb.org/" class="image fit"><img src="assets/images/MariaDB_Logo.png" alt="MariaDB" /></a></div>
 												</div>
 											</div>
-											<a href="#" class="button icon fa-file-text-o">More</a>
+											<!--<a href="#" class="button icon fa-file-text-o">More</a>-->
 										</section>
 									</div>
 
@@ -100,11 +97,12 @@ echo <<<'EOD'
 								<!-- Content -->
 									<div id="content">
 										<section class="last">
-											<h2>So what's this all about?</h2>
-											<p>This is <strong>Verti</strong>, a free and fully responsive HTML5 site template by <a href="http://html5up.net">HTML5 UP</a>.
-											Verti is released under the <a href="http://html5up.net/license">Creative Commons Attribution license</a>, so feel free to use it for any personal or commercial project you might have going on (just don't forget to credit us for the design!)</p>
-											<p>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus. Praesent semper bibendum ipsum, et tristique augue fringilla eu. Vivamus id risus vel dolor auctor euismod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat. Aliquam luctus mattis lectus sit amet phasellus quam turpis.</p>
-											<a href="#" class="button icon fa-arrow-circle-right">Continue Reading</a>
+											<ul>
+											<li>We will be using GitHub to manage versions and facilitate collaborative development.</li>
+											<li>Asana will be utilized to manage tasks and deadlines.</li>
+											<li>The website will be developed using PHP with a MariaDB back-end storage system.</li>
+											</ul>
+<!--<a href="#" class="button icon fa-arrow-circle-right">Continue Reading</a>-->
 										</section>
 									</div>
 
