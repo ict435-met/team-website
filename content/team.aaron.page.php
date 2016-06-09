@@ -98,9 +98,9 @@ IMPLEMENTATION SPECIALIST, CLEARBRIDGE TECHNOLOGY GROUP (CONTRACTED TO ORACLE/MI
 		<li>Training users, other installers, and management. Installing Micros Simphony 2 Point of Sale Systems and supporting them. Moved to Implementation Support in March 2015.</li> 
 	</ul>
 </ul>
-<h3>
+<h4>
 INTERNSHIP, CITY OF ALAMOGORDO Fall 2013 - Summer 2014 
-</h3>
+</h4>
 <ul>	
 	<li>Supervisors: Jim Westhead, Joe Salcido, Jason Vraa, Steve Holmes</li>
 	<li>Responsibilities:</li> 
