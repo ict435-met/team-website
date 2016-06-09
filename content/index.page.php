@@ -1,6 +1,5 @@
 <?php 
 echo <<<'EOD'
-
 			<!-- Banner -->
 				<div id="banner-wrapper">
 					<div id="banner" class="box container">
@@ -18,13 +17,11 @@ echo <<<'EOD'
 						</div>
 					</div>
 				</div>
-
 			<!-- Features -->
 				<div id="features-wrapper">
 					<div class="container">
 						<div class="row">
 							<div class="4u 12u(medium)">
-
 								<!-- Box -->
 									<section class="box feature" id="proj_desc">
 										<a href="#" class="image featured"><img src="http://e-bergi.com/media/covers/2015/haziran/codi.jpg" alt="" /></a>
@@ -35,10 +32,8 @@ echo <<<'EOD'
 											</header>
 										</div>
 									</section>
-
 							</div>
 							<div class="4u 12u(medium)">
-
 								<!-- Box -->
 									<section class="box feature">
 										<a href="#" class="image featured"><img src="http://184ynl3xrypi2ruscv1a607s.wpengine.netdna-cdn.com/wp-content/uploads/2013/03/databases.jpg" alt="" /></a>
@@ -49,10 +44,8 @@ echo <<<'EOD'
 											</header>
 										</div>
 									</section>
-
 							</div>
 							<div class="4u 12u(medium)">
-
 								<!-- Box -->
 									<section class="box feature">
 										<a href="#" class="image featured"><img src="http://cdn.techpp.com/wp-content/uploads/2013/01/Free-Document-Conversion-Network-PDF-Excel-Word-Text-Images%E2%80%A6.png" alt="" /></a>
@@ -63,7 +56,6 @@ echo <<<'EOD'
 											</header>
 										</div>
 									</section>
-
 							</div>
 						</div>
 					</div>
@@ -74,7 +66,6 @@ echo <<<'EOD'
 					<div class="container">
 						<div class="row 200%">
 							<div class="4u 12u(medium)">
-
 								<!-- Sidebar -->
 									<div id="sidebar">
 										<section class="widget thumbnails">
@@ -87,10 +78,8 @@ echo <<<'EOD'
 													<div class="6u"><a href="https://mariadb.org/" class="image fit"><img src="assets/images/MariaDB_Logo.png" alt="MariaDB" /></a></div>
 												</div>
 											</div>
-											<!--<a href="#" class="button icon fa-file-text-o">More</a>-->
 										</section>
 									</div>
-
 							</div>
 							<div class="8u 12u(medium) important(medium)">
 
@@ -102,10 +91,8 @@ echo <<<'EOD'
 											<li>Asana will be utilized to manage tasks and deadlines.</li>
 											<li>The website will be developed using PHP with a MariaDB back-end storage system.</li>
 											</ul>
-<!--<a href="#" class="button icon fa-arrow-circle-right">Continue Reading</a>-->
 										</section>
 									</div>
-
 							</div>
 						</div>
 					</div>
