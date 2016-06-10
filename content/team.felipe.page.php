@@ -1,13 +1,32 @@
 <?php
 echo <<<'EOD'
-<!-- Main -->
+	<!-- Main -->
 				<div id="main-wrapper">
 					<div class="container">
-						<div id="content">
+						<div class="row 200%">
+							<div class="4u 12u$(medium)">
+								<div id="sidebar">
 
-							<!-- Content -->
-								<article>
+									<!-- Sidebar -->
+										<section>
+																							    1379 Anasazi CT 
+	<br>Las Cruces, NM 88007 
+	<br>+1.505.681.9991 
+	<br>fparra@nmsu.edu 
 
+											<footer>
+												<a href="#" class="button icon fa-info-circle">Contact Felipe</a>
+											</footer>
+										</section>
+
+
+								</div>
+							</div>
+							<div class="8u 12u$(medium) important(medium)">
+								<div id="content">
+
+									<!-- Content -->
+										<article>
 									
 <h2>Felipe Parra</h2>
 
