@@ -8,8 +8,13 @@ echo <<<'EOD'
 							<!-- Content -->
 								<article>
 
-									<h2 style="text-align:center;">Coming Soon</h2>
-							</article>
+								<ul>
+                                <li>
+                                <p><?php if($page == 'reports.20160612.page.php') {echo 'class="current"';}?><a href="?p=reports/20160612">Report for week of 6/5 through 6/12</a></li></ul>
+                                
+                         
+                                
+                                </article>
 
 						</div>
 					</div>
