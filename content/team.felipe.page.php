@@ -11,7 +11,7 @@ echo <<<'EOD'
 										<section>
 																							    1379 Anasazi CT 
 	<br>Las Cruces, NM 88007 
-	<br>+1.505.681.9991 
+	<br>+1.505.681.9997 
 	<br>fparra@nmsu.edu 
 
 											<footer>
