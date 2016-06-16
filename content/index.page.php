@@ -40,7 +40,7 @@ echo <<<'EOD'
 										<div class="inner">
 											<header>
 												<h2>Store</h2>
-												<p>Keep all documents stored in a database.</p>
+												<p>Store all data as flat files that are separate from the logic and presentation layers to enable easier expandability and accessibility.</p>
 											</header>
 										</div>
 									</section>
@@ -52,7 +52,7 @@ echo <<<'EOD'
 										<div class="inner">
 											<header>
 												<h2>Convert</h2>
-												<p>Enable automatic and simple conversion of existing documents.</p>
+												<p>Convert all existing documentation to PDF format so that they are viewable by any user.</p>
 											</header>
 										</div>
 									</section>
@@ -75,7 +75,7 @@ echo <<<'EOD'
 													<div class="6u"><a href="https://github.com/" class="image fit"><img src="assets/images/GitHub_Logo.png" alt="GitHub" /></a></div>
 													<div class="6u"><a href="https://asana.com/" class="image fit"><img src="assets/images/Asana_Logo.png" alt="Asana" /></a></div>
 													<div class="6u"><a href="https://php.net/" class="image fit"><img src="assets/images/PHP_Logo.png" alt="PHP" /></a></div>
-													<div class="6u"><a href="https://mariadb.org/" class="image fit"><img src="assets/images/MariaDB_Logo.png" alt="MariaDB" /></a></div>
+													<div class="6u"><a href="https://www.smarty.net/" class="image fit"><img src="assets/images/Smarty_Logo.png" alt="Smarty" /></a></div>
 												</div>
 											</div>
 										</section>
@@ -89,7 +89,7 @@ echo <<<'EOD'
 											<ul>
 											<li>We will be using GitHub to manage versions and facilitate collaborative development.</li>
 											<li>Asana will be utilized to manage tasks and deadlines.</li>
-											<li>The website will be developed using PHP with a MariaDB back-end storage system.</li>
+											<li>The website will be developed using PHP with a Smarty templating engine.</li>
 											</ul>
 										</section>
 									</div>
