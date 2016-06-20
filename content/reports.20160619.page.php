@@ -1,4 +1,4 @@
-<h2 style="text-align:left;">Report for week of 6/12 through 6/19</h2>
+<h2>Report for week of 6/12 through 6/19</h2>
                                 <p><strong>June 15th:</strong><br>
                                     The team met to discuss the design and to assign tasks for the project. Brian had created a sample page using the <a href="http://www.smarty.net">Smarty template engine</a>.  He used the engine in combination with the NMSU template which can be found on <a href="https://github.com/brshaughnessy/nmsu-template-2016">GitHub</a>.  Since the engine separates the presentation (HTML/CSS) from the application(PHP), the Smarty Engine will help to keep our pages consistent with the NMSU branding.  The team agreed to use this page going forward for the project.  We then decided to assign tasks for each team member, making them responsible for a portion of the website.</p>
                         <ul>
