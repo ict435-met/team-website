@@ -1,5 +1,3 @@
-<?php
-echo <<<'EOD'
 <!-- Main -->
 				<div id="main-wrapper">
 					<div class="container">
@@ -9,10 +7,15 @@ echo <<<'EOD'
 								<div id="sidebar">
 									<!-- Sidebar -->
 										<section>
-											<ul>
-                             								   <li><?php if($report == 'reports.20160612.page.php') {echo 'class="current"';}?><a href="?p=reports/20160612">Report for week of 6/5 through 6/12</a></li>
-                               								   <li><?php if($report == 'reports.20160619.page.php') {echo 'class="current"';}?><a href="?p=reports/20160619">Report for week of 6/12 through 6/19</a></li>
-                                       							</ul>
+<?php
+/* Make li for report links more sensible
+ * Whenever a report is added an an element to this array
+ */
+$links = array('20160612' => 'Week of 6/05 - 6/12', '20160619' => 'Week of 6/12 - 6/19');
+foreach ($links as $r_file => $r_title) {
+	echo '<p><a class="button '.(($report == 'reports.'.$r_file.'.page.php')?'':'alt').'" href="?p=reports/'.$r_file.'">'.$r_title.'</a></p>';
+}
+?>
 										</section>
 								</div>
 							</div>
@@ -22,16 +25,13 @@ echo <<<'EOD'
 							<!-- Content -->
 								<article>
 
-EOD;
-								
-								if (isset($report)) {
-									include($report);
-								}
-echo <<<'EOD'
+<?php
+if (isset($report)) {
+	include($report);
+};
+?>
                                 				</article>
 
 						</div>
 					</div>
 				</div>
-EOD;
-?>
