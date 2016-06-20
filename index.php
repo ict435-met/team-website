@@ -4,6 +4,9 @@ if (isset($page) && $page != '') {
 	$page = str_replace('/', '.', $page) . ".page.php";
 	if (!file_exists('content/' . $page)) {
 		$page = 'index.page.php';
+	} else if (preg_match('/reports\.(.+)\.page\.php/', $page)) {
+		$report = $page;
+		$page = 'reports.page.php';
 	}
 } else {
 	$page = 'index.page.php';

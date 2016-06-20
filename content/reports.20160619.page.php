@@ -1,14 +1,6 @@
 <?php
 echo <<<'EOD'
-<!-- Main -->
-				<div id="main-wrapper">
-					<div class="container">
-						<div id="content">
-
-							<!-- Content -->
-								<article>
-
-									<h2 style="text-align:left;">Report for week of 6/12 through 6/19</h2>
+<h2 style="text-align:left;">Report for week of 6/12 through 6/19</h2>
                                     
                                            
                                 <p><strong>June 15th:</strong><br>
@@ -26,13 +18,5 @@ echo <<<'EOD'
     
     <p><strong>Sketch of task breakdown:<strong></p>
     <img src="./assets/images/2016-06-15.jpg" alt="task breakdown sketch">
-                            
-                                    
-                                          
-							</article>
-
-						</div>
-					</div>
-				</div>
 EOD;
 ?>
