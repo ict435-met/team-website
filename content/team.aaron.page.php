@@ -15,7 +15,7 @@ echo <<<'EOD'
 	<br>aaronjwood@outlook.com 
 
 											<footer>
-												<a href="#" class="button icon fa-info-circle">Contact Aaron</a>
+												<a href="mailto:aaronjwood@outlook.com?Subject=ICT435%20Team%20Website" class="button icon fa-info-circle">Contact Aaron</a>
 											</footer>
 										</section>
 
