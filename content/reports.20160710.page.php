@@ -5,7 +5,7 @@ Brian Campbell, Rockson Opoku, Felipe Parra, and Aaron wood met for a weekly sta
 </p>
 
 <p><strong>July 10th:</strong><br>
-We received the required documentation from Professor Kelly, so we are ready to start to add content to the outer shell we have been creating. Next week we will work to add contant.
+We received the MET accreditation documentation from Professor Kelly, so we are ready to start to add content to the outer shell we have been creating. Next week we will work to add content.
 </p>
 
 <p><strong>Next meeting:</strong><br>
