@@ -13,7 +13,7 @@
  */
 $links = array( '20160612' => 'Week of 6/05 - 6/12', '20160619' => 'Week of 6/12 - 6/19',
 		'20160626' => 'Week of 6/19 - 6/26', '20160703' => 'Week of 6/26 - 7/03',
-		'20160710' => 'Week of 7/03 - 7/10');
+		'20160710' => 'Week of 7/03 - 7/10', '20160717' => 'Week of 7/10 - 7/17');
 foreach ($links as $r_file => $r_title) {
 	echo '<p><a class="button '.(($report == 'reports.'.$r_file.'.page.php')?'':'alt').'" href="?p=reports/'.$r_file.'">'.$r_title.'</a></p>';
 }
