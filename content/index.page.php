@@ -11,7 +11,7 @@ echo <<<'EOD'
 							<div class="5u 12u(medium)">
 								<ul>
 									<li><a href="https://ict435-met.nmsu.edu/abet-met/" class="button big icon fa-arrow-circle-right">Accreditation Page</a></li>
-									<li><a href="#" class="button alt big icon fa-question-circle" id="to_proj">More info</a></li>
+									<li><a href="assets/abet_met.tar.gz" class="button alt big ">Download</a></li>
 								</ul>
 							</div>
 						</div>
